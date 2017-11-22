@@ -1,0 +1,8 @@
+{
+  "hostname"   : "",
+  "authToken"  : "",
+  "username"  : "",
+  "password"  : "",
+  "port" : "8080",
+  "api_version" : "/api/v1"
+}
